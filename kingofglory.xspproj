@@ -1,0 +1,11 @@
+[RES]
+size=0
+
+[SOURCE]
+1\SOURCEFILE=/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua
+2\SOURCEFILE=/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/findtap.lua
+size=2
+
+[UI]
+1\UIFILE=/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/ui/ui.json
+size=1

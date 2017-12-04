@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+enterGame	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	83;"	f
+findNextButton	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	9;"	f
+findRetry	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	47;"	f
+findSkipButton	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	29;"	f
+findStartButton	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	19;"	f
+findtap	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/findtap.lua	1;"	e
+forFind	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	58;"	f
+forFindRetryOrNext	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	70;"	f
+isFind	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	60;"	e
+isFind	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	72;"	e
+isFindRetryOrNext	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	84;"	e
+isFindSkipButton	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	130;"	e
+isFindSkipButton	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	90;"	e
+isFindStartButton	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	87;"	e
+mainStart	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	116;"	f
+skipToBoss	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	99;"	f
+tap	/Users/guoshaowei/Documents/xspworkspace/kingofglory/xsp/src/main.lua	3;"	f

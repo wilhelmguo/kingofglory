@@ -1,0 +1,37 @@
+{
+   "style" : "default",
+   "config" : "Miao_test.dat",
+   "width" : 540,
+   "height" : 960,
+   "cancelscroll" : true,
+   "countdown" : 99,
+   "cancelname" : "取消",
+   "okname" : "确定",
+   "views" : [
+      {
+         "text" : "设置循环次数",
+         "type" : "Page",
+         "views" : [
+            {
+               "align" : "left",
+               "color" : "0,0,0",
+               "size" : "30",
+               "text" : "请输入刷本次数",
+               "bg" : "255,255,255",
+               "type" : "Label"
+            },
+            {
+               "id" : "retryTimes",
+               "align" : "left",
+               "color" : "0,0,0",
+               "kbtype" : "number",
+               "prompt" : "请输入刷本次数",
+               "size" : "25",
+               "text" : "5",
+               "type" : "Edit"
+            }
+          
+         ]
+      }
+   ]
+}
